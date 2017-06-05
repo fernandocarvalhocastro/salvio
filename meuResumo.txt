@@ -1,0 +1,36 @@
+O que é BI?
+BI é um conjunto de estrutura, pacote de softwares, dados relevantes e confiaveis que auxiliam a alta gestão na tomada de decisão
+
+O que é ERP? Vantagens? Desvantagens?
+Enterprise Resouce Plaining, ou Sistema integrado de planejamento de recursos empresariais, é um pacote de software que visa atender todas as áreas de uma empresa com banco de dados centralizado, a fim de integrar toda a empresa. Sendo assim, por exemplo, quando se recebe uma compra, automaticamente todos os setores relacionados a aquela ação são disparados e tratados mais rapidamente.
+- Vantagens:
+	- Setores integrados;
+	- Facilidade na gestão;
+	- sistema de alta disponibilidade;
+	- Ganho de eficiência operacional;
+	- Métrica de desempenho;
+	- Setores automatizados;
+- Desvantagens:
+	- alto custo;
+	- Prazos de implantação não são cumpridos;
+	- tempo de treinamento da equipe;
+	- resistência operacional (cultura da empresa)
+O que é CRM?
+O Customer Relationship Management é um sistema integrado de gestão com foco no cliente, constituído por um conjunto de procedimentos/processos organizados e integrados num modelo degestão. Esse tipo de sistema visa a fidelização do cliente e análise de perfil, descartando os clientes que tem maior custo de atendimento que de faturamento.
+
+SWOT - Modelo aplicado para análise empresarial(Forças / Fraquesas / Oportunidades / Ameaças)
+
+Matriz BCG - Modelo usado para análise de produto. Podemos classifica-los em:
+	- Oportunidade
+	- Estrela
+	- Vaca leiteira
+	- Animal de estimação
+
+O que é Balanced Scorecard - BSC?
+Modelo de gestão que traduz a estratégia em ações operacionais que direcionam o comportamento e o desempenho.
+Divide os indicadores em 4 partes:
+– Financeira
+– Clientes
+– Processos internos
+– Aprendizagem e crescimento (antes inovação e aprendizado)
+Com isso é possível estabelecer metas e através dos indicadores visualizar como está o alinhamento da equipe com a visão estratégica.
